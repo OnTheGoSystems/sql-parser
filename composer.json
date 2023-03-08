@@ -1,5 +1,5 @@
 {
-    "name": "phpmyadmin/sql-parser",
+    "name": "wpml/sql-parser",
     "description": "A validating SQL lexer and parser with a focus on MySQL dialect.",
     "license": "GPL-2.0-or-later",
     "keywords": ["sql", "lexer", "parser", "analysis"],
